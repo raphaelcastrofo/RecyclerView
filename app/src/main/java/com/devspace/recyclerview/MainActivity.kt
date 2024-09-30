@@ -69,7 +69,7 @@ val contacts = listOf(
     ),
 
     Contact(
-        "Carlos",
+        "Raissa",
         "(55) 32 73456891",
         R.drawable.sample3
     ),
